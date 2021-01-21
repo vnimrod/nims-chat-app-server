@@ -2,7 +2,7 @@
 
 Client deploy link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
-client github repo: https://github.com/vnimrod/nims-chat-app-server
+Client github repo: https://github.com/vnimrod/nims-chat-app-server
 
 #### Technologies:
 - React.js
