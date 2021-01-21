@@ -1,6 +1,6 @@
 # nims-chat-app-server
 
-Client deploy link: https://weinstein-buzz-client.web.app/
+Client deploy link: https://weinstein-nims-chat-app-client.herokuapp.com/
 
 Client github repo: https://github.com/vnimrod/nims-chat-app-client
 
